@@ -112,18 +112,5 @@ public class Main {
         }
 
         System.out.println("The shortest word of the given array is " + shortestWord);
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
 }
